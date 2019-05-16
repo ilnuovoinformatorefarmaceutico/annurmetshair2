@@ -2054,54 +2054,61 @@ body {
     width: 100% !important;
   }
 }
-.cid-rm79uxoRJd {
+.cid-rqCUHkf8j8 {
   padding-top: 30px;
-  padding-bottom: 105px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rm79uxoRJd P {
+.cid-rqCUHkf8j8 P {
   color: #767676;
 }
-.cid-rm79uxoRJd H1 {
+.cid-rqCUHkf8j8 .mbr-text,
+.cid-rqCUHkf8j8 .mbr-section-btn {
+  color: #232323;
+}
+.cid-rqCUHkf8j8 H1 {
   color: #f50b0b;
 }
-.cid-rm79uxoRJd .mbr-text,
-.cid-rm79uxoRJd .mbr-section-btn B {
-  color: #232323;
+.cid-rqCYjAFNcs {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-rm79uxoRJd .mbr-text,
-.cid-rm79uxoRJd .mbr-section-btn I {
-  color: #232323;
+.cid-rqCYjAFNcs .image-block {
+  margin: auto;
+}
+.cid-rqCYjAFNcs figcaption {
+  position: relative;
+}
+.cid-rqCYjAFNcs figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rqCYjAFNcs .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rm7bUDxVa6 {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rm7abrc9Ne {
-  padding-top: 45px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/lozione4-2000x1111.jpg");
+.cid-rqCKWXKP2t {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-rm7abrc9Ne .title {
-  margin-bottom: 2rem;
-}
-.cid-rm7abrc9Ne .mbr-section-subtitle {
+.cid-rqCKWXKP2t .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rm7abrc9Ne a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
+.cid-rqCZ0SPkgZ {
+  background-image: url("../../../assets/images/lozione-sfondo3-1-2000x1111.jpg");
 }
-.cid-rm7abrc9Ne a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rm7abrc9Ne textarea.form-control {
-  min-height: 188px;
-}
-.cid-rm7abrc9Ne H2 {
-  color: #f50b0b;
-}
-.cid-rm7abrc9Ne .mbr-section-subtitle B {
-  color: #232323;
+.cid-rqCKS69wx2 {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
 }
